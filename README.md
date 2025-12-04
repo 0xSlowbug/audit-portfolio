@@ -14,7 +14,8 @@ I am a smart contract auditor with experience across major web3 security platfor
 * Solidity
 * Move
 
-### 🛠️ Categories I’ve Audited
+### 💼 Areas of Expertise
+I've audited projects in the following categories:
 
 * Lending and Borrowing
 * Synthetic tokens
