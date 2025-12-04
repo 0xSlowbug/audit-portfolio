@@ -10,8 +10,7 @@ I am a smart contract auditor with experience across major web3 security platfor
 
 ### 🧩 Languages
 
-* Solidity
-* Move
+* Solidity * Move
 
 ### 🛠️ Categories I’ve Audited
 
@@ -30,4 +29,4 @@ If you’re looking for a pragmatic, detail-oriented security researcher to revi
 
 ---
 
-If you want it even more compact, more formal, or more “GitHub profile style,” I can tune it.
+
