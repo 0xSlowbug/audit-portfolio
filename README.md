@@ -30,7 +30,7 @@ If you’re looking for a pragmatic, detail-oriented security researcher to revi
 
 ---
 
-## Public Contests
+# Public Contests
 
 You can view my full auditing portfolio on Sherlock here: [0xSlowbug](https://audits.sherlock.xyz/watson/0xSlowbug). I have achieved **2 first-place finishes**, **1 third-place finish**, and **6 top-10 results**, with **29+ medium/high severity findings** across competitions. I consistently deliver strong coverage and have fully identified all bugs in multiple contests. 
 
