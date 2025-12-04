@@ -25,10 +25,6 @@ I've audited projects in the following categories:
 * Staking
 * Launchpads
 
-If you’re looking for a pragmatic, detail-oriented security researcher to review your protocol:
-
-📩 **DM me on Twitter: [@0xSlowbug](https://twitter.com/0xSlowbug)**
-
 ---
 
 # Public Contests
@@ -69,3 +65,12 @@ During this period, I:
 These contributions directly improved the accuracy, robustness, and reasoning depth of the tools.
 
 ---
+
+# 📬 Contact Info
+
+If you're looking for a pragmatic, detail-oriented security researcher to review your protocol, feel free to send me a DM.
+
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/0xSlowbug?s=20)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/slowbug_mayor)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1078673399812984852)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onudanielonyebuchi/)
