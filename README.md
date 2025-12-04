@@ -41,7 +41,7 @@ You can view my full auditing portfolio on Sherlock here: [0xSlowbug](https://au
 | Usual ETH0       | Synthetic Token  | Sherlock     | 🥇 1st Place | 1M      | [Report](https://audits.sherlock.xyz/contests/988/report) |
 | Neutrl Protocol  | Synthetic Dollar | Sherlock     | 🥇 1st Place | 1M      | [Report](https://audits.sherlock.xyz/contests/1065/report) |
 | ThorWallet       | DeFi             | Code4rena    | 🥉 3rd Place | 1H      | [Report](https://audits.sherlock.xyz/contests/988/report) |
-| 3jane       | Lending and Borrowing             | Code4rena    |  10th Place | 1M      | REDACTED |
+| 3jane       | Lending and Borrowing             | Sherlock    |  10th Place | 1M      | REDACTED |
 | Virtuals Protocol | Launchpad            | Code4rena    | - | 4M      | [Report](https://code4rena.com/reports/2025-04-virtuals-protocol) |
 | SecondSwap       | Launchpad             | Code4rena    | - | -      | [Report](https://code4rena.com/reports/2024-12-secondswap) |
 | RAAC       | RWA             | Codehawks    | - | 8H, 6M, 2L      | [Report](https://codehawks.cyfrin.io/c/2025-02-raac) |
