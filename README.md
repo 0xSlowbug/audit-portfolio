@@ -64,9 +64,6 @@ During this period, I:
 
 These contributions directly improved the accuracy, robustness, and reasoning depth of the tools.
 
-
-Say less 😄 here’s a **tight, clean, audit-focused** version:
-
 ---
 
 ## 🔍 Quill Audit
