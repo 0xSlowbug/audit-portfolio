@@ -64,6 +64,36 @@ During this period, I:
 
 These contributions directly improved the accuracy, robustness, and reasoning depth of the tools.
 
+
+Say less 😄 here’s a **tight, clean, audit-focused** version:
+
+---
+
+## 🔍 Quill Audit
+
+I worked with **Quill Audit** on multiple **private smart contract security reviews**, contributing to audits across **vaults, staking contracts, ERC-20/SPL tokens, and lending protocols**.
+
+My work included:
+
+* Reviewing contract logic and identifying **vulnerabilities, edge cases, and input validation issues**
+* **Validating and reproducing findings**, assessing impact and exploitability
+* Assisting with **audit report writing**, including root cause, impact, and remediation
+* Reviewing tests and verifying fixes after mitigations
+
+This role strengthened my ability to perform **practical, end-to-end smart contract audits**.
+
+
+| 🛠️ Project | 🔍 Category   | 🧪 Audit Type | 🔗 Report   | 📅 Date |
+| ----------- | ------------- | ------------- | ----------- | ------- |
+| L.XYZ       | SPL Token     | Full Audit | [Report](#) | Dec 2024    |
+| Krypc       | Vault         | Full Audit | [Report](#) | Dec 2024    |
+| HoleInOne   | ERC-20 Token  | Full Audit | [Report](#) | Jan 2025    |
+| PuffPaw     | Vault         | Full Audit | [Report](#) | Jan 2025    |
+| Elsa        | Staking       | Full Audit | [Report](https://www.quillaudits.com/leaderboard/heyelsa-ai/heyelsa-staking) | Jan 2025    |
+| NettyWorth  | Lending Vault | Quick Review | REDACTED | Jan 2025    |
+| MDC Token   | ERC-20 Token  | Full Audit | [Report](#) | Jan 2025    |
+| YODL        | Staking       | Full Audit | [Report](#) | Jan 2025    |
+
 ---
 
 # 📬 Contact Info
