@@ -90,6 +90,7 @@ This role strengthened my ability to perform **practical, end-to-end smart contr
 | NettyWorth  | Lending Vault | Quick Review | REDACTED | Jan 2025    |
 | MDC Token   | ERC-20 Token  | Full Audit | [Report](#) | Jan 2025    |
 | YODL        | Staking       | Full Audit | [Report](#) | Jan 2025    |
+| LCX        | Token       | Full Audit | [Report](#) | Jan 2025    |
 
 ---
 
