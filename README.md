@@ -90,7 +90,12 @@ This role strengthened my ability to perform **practical, end-to-end smart contr
 | NettyWorth  | Lending Vault | Quick Review | REDACTED | Jan 2025    |
 | MDC Token   | ERC-20 Token  | Full Audit | [Report](#) | Jan 2025    |
 | YODL        | Staking       | Full Audit | [Report](#) | Jan 2025    |
-| LCX        | Token       | Full Audit | [Report](#) | Jan 2025    |
+| LCX        | Token       | Full Audit | [Report](https://www.quillaudits.com/leaderboard/lcx) | Jan 2025    |
+| Predictfully        | Prediction Market       | Full Audit | [Report](#) | March 2025    |
+| Liquidity Generator Token        | Token       | Full Audit | [Report](#) | March 2025    |
+| AHome        | RWA       | Full Audit | [Report](https://www.quillaudits.com/leaderboard/ahome) | March 2025    |
+| Alvara        | Staking       | Quick Review | [Report](#) | March 2025    |
+
 
 ---
 
