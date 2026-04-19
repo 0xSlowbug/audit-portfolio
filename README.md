@@ -94,7 +94,7 @@ This role strengthened my ability to perform **practical, end-to-end smart contr
 | Predictfully        | Prediction Market       | Full Audit | [Report](#) | March 2025    |
 | Liquidity Generator Token        | Token       | Full Audit | [Report](#) | March 2025    |
 | AHome        | RWA       | Full Audit | [Report](https://www.quillaudits.com/leaderboard/ahome) | March 2025    |
-| Alvara        | Staking       | Quick Review | [Report](#) | March 2025    |
+| Alvara        | Staking       | Quick Review | REDACTED | March 2025    |
 
 
 ---
