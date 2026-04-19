@@ -3,6 +3,7 @@
 # 🧭 About Me
 I am a smart contract auditor with experience across major web3 security platforms and real-world protocol reviews. I combine public contest performance with private-sector AI tooling experience.
 
+* 🔍 **13+ private audit** with Quill Audits
 * 🔍 **20+ public audit contests** on Sherlock, Code4rena, Cantina, and CodeHawks
 * 🥇 **Multiple top-3 finishes** in competitive audits
 * 🛡️ **Confirmed live bug bounty** on Immunefi
@@ -13,6 +14,8 @@ I am a smart contract auditor with experience across major web3 security platfor
 
 * Solidity
 * Move
+* Golang
+* C++
 
 ### 💼 Areas of Expertise
 I've audited projects in the following categories:
