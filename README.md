@@ -84,19 +84,19 @@ This role strengthened my ability to perform **practical, end-to-end smart contr
 
 | 🛠️ Project | 🔍 Category   | 🧪 Audit Type | 🔗 Report   | 📅 Date |
 | ----------- | ------------- | ------------- | ----------- | ------- |
-| L.XYZ       | SPL Token     | Full Audit | [Report](#) | Dec 2024    |
-| Krypc       | Vault         | Full Audit | [Report](#) | Dec 2024    |
-| HoleInOne   | ERC-20 Token  | Full Audit | [Report](#) | Jan 2025    |
-| PuffPaw     | Vault         | Full Audit | [Report](#) | Jan 2025    |
-| Elsa        | Staking       | Full Audit | [Report](https://www.quillaudits.com/leaderboard/heyelsa-ai/heyelsa-staking) | Jan 2025    |
-| NettyWorth  | Lending Vault | Quick Review | REDACTED | Jan 2025    |
-| MDC Token   | ERC-20 Token  | Full Audit | [Report](#) | Jan 2025    |
-| YODL        | Staking       | Full Audit | [Report](#) | Jan 2025    |
-| LCX        | Token       | Full Audit | [Report](https://www.quillaudits.com/leaderboard/lcx) | Jan 2025    |
-| Predictfully        | Prediction Market       | Full Audit | [Report](#) | March 2025    |
-| Liquidity Generator Token        | Token       | Full Audit | [Report](#) | March 2025    |
-| AHome        | RWA       | Full Audit | [Report](https://www.quillaudits.com/leaderboard/ahome) | March 2025    |
-| Alvara        | Staking       | Quick Review | REDACTED | March 2025    |
+| L.XYZ       | SPL Token     | Full Audit | [Report](#) | Dec 2025    |
+| Krypc       | Vault         | Full Audit | [Report](#) | Dec 2025    |
+| HoleInOne   | ERC-20 Token  | Full Audit | [Report](#) | Jan 2026    |
+| PuffPaw     | Vault         | Full Audit | [Report](#) | Jan 2026    |
+| Elsa        | Staking       | Full Audit | [Report](https://www.quillaudits.com/leaderboard/heyelsa-ai/heyelsa-staking) | Jan 2026    |
+| NettyWorth  | Lending Vault | Quick Review | REDACTED | Jan 2026    |
+| MDC Token   | ERC-20 Token  | Full Audit | [Report](#) | Jan 2026    |
+| YODL        | Staking       | Full Audit | [Report](#) | Jan 2026    |
+| LCX        | Token       | Full Audit | [Report](https://www.quillaudits.com/leaderboard/lcx) | Jan 2026    |
+| Predictfully        | Prediction Market       | Full Audit | [Report](#) | March 2026    |
+| Liquidity Generator Token        | Token       | Full Audit | [Report](#) | March 2026    |
+| AHome        | RWA       | Full Audit | [Report](https://www.quillaudits.com/leaderboard/ahome) | March 2026    |
+| Alvara        | Staking       | Quick Review | REDACTED | March 2026    |
 
 
 ---
