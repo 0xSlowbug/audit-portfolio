@@ -1,7 +1,9 @@
 ![image](assets/slowbugsignature.png)
 
 # 🧭 About Me
-I am a smart contract auditor with experience across major web3 security platforms and real-world protocol reviews. I combine public contest performance with private-sector AI tooling experience.
+
+I am a **smart contract security researcher and technical writer** with experience across competitive Web3 audits, private protocol reviews, and developer-focused technical publications. I specialize in finding high-impact vulnerabilities in DeFi protocols while also turning complex technical concepts into clear, practical documentation and educational content.
+.
 
 * 🔍 **13+ private audit** with Quill Audits
 * 🔍 **20+ public audit contests** on Sherlock, Code4rena, Cantina, and CodeHawks
@@ -98,6 +100,36 @@ This role strengthened my ability to perform **practical, end-to-end smart contr
 | AHome        | RWA       | Full Audit | [Report](https://www.quillaudits.com/leaderboard/ahome) | March 2026    |
 | Alvara        | Staking       | Quick Review | REDACTED | March 2026    |
 
+
+---
+
+# ✍️ Technical Writing
+
+Alongside smart contract security research, I am an experienced **technical writer** with a focus on developer-focused content, Web3, JavaScript, React, and modern software engineering. I specialize in breaking down complex technical concepts into practical, easy-to-follow content for developers.
+
+I have published technical articles covering topics such as **React, Angular, Node.js, Bun, authentication, real-time applications, AI integrations, and custom React renderers**.
+
+### 📚 Selected Technical Writing
+
+| 📝 Article                                                                                                                                 | 🛠️ Topic                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
+| [Five Practical Examples of Animations in Angular](https://blog.openreplay.com/five-practical-examples-of-animations-in-angular/)          | Angular / Web Development   |
+| [Real Time Chat with Angular and SignalR](https://blog.openreplay.com/real-time-chat-app-with-angular-and-signalr/)                        | Angular / SignalR / ASP.NET |
+| [Building a Custom Renderer for React](https://blog.openreplay.com/building-a-custom-react-renderer/)                                      | React / Custom Renderers    | 
+| [Two Workhorses: Comparing Bun and Node](https://blog.openreplay.com/comparing-bun-and-node/)                                              | Bun / Node.js               | 
+| [Authentication in React with Microsoft's MSAL Library](https://blog.openreplay.com/authentication-in-react-with-microsofts-msal-library/) | React / Authentication      |
+| [Build a ChatBot with ChatGPT and React](https://blog.openreplay.com/build-a-chatbot-with-chatgpt-and-react/)                              | React / AI                  |
+| [Sass for Web Development](https://blog.openreplay.com/sass-for-web-development/)                                                          | Sass / CSS                  |
+
+### 🧠 Writing Focus
+
+* Developer documentation and technical tutorials
+* Blockchain and Web3 security content
+* Smart contract and DeFi concepts
+* JavaScript, React, and modern web development
+* Code walkthroughs and technical explainers
+* AI and developer tooling
+* Research-driven technical content
 
 ---
 
